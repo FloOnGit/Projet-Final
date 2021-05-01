@@ -23,7 +23,7 @@ countdown(int(t))
 # le programme rencontre un soucis d'interface, mais il fonctionne.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Other countdown program
+Timer program
 
 import os
 import time
