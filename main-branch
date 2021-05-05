@@ -20,7 +20,7 @@ t = input("Enter the time in seconds: ")
 
 countdown(int(t))
 
-# le programme rencontre un soucis d'interface, mais il fonctionne.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Timer program
