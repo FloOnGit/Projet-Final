@@ -1,5 +1,5 @@
 Need to modify*
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 int begin; 
 int duration = 20;
 int time = 20;
@@ -15,4 +15,25 @@ void draw() {
     time = duration - (millis() - begin)/1000;
     text(time, 80, 80);
 }
+}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To fast
+
+var countdown = 200;
+
+function setup() {
+  createCanvas(200, 200);
+  textSize(100);
+  textAlign(CENTER, CENTER);
+}
+
+function draw() {
+  background(220);
+  text(countdown, width/2, height/2);
+  // continue, or stop
+  if(countdown > 0) countdown--;
+}
+
+function keyReleased() {
+  countdown += 50;
 }
