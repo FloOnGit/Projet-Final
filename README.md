@@ -1,4 +1,4 @@
 # FloOnGit, Alexis
 # Projet-Final
-# Timer/Countown
+# Timer/Countown & HTML-P5 integration
 
