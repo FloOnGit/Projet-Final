@@ -1,0 +1,29 @@
+
+    body{
+      background-color: black;
+    }
+    
+    
+    #fondGris{
+    background-color: grey;
+    text-align: center;
+    height:40px;
+    }
+
+    a{
+    color:white;
+    text-align: center;
+    font-size:1.5em;
+    }
+    
+    
+    h1 {
+        color:rgb(255, 109, 11);
+        text-align: center;
+        font-size: 3em; 
+      }
+
+      #script{
+        display: flex;
+        justify-content: center;
+      }
