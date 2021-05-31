@@ -11,6 +11,8 @@ Expliquation d'une partie d'un des programmes :
 
 
 Extensions possibles :
+Alexis- page html:
+  Le probleme principal du site etait d'afficher plusieurs programmes sans que sa prenne trop de place et que la naviguation a travers le site reste agréable. Alors on a implémenter des boutons qui permettent d'aller sur une deuxieme page. Ainsi il est possible de changer de programme a l'aide d'un bouton tout en gardant une page sobre et bien organisée.
 
 - L'ajout d'une sonnerie au countdown permettant de faire office d'un minuteur utilisable pour faire plusieurs tâches en même temps par exemple.
 - Un réveil
