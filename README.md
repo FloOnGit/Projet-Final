@@ -99,4 +99,4 @@ Alexis- page html:
 
 - L'ajout d'une sonnerie au countdown permettant de faire office d'un minuteur utilisable pour faire plusieurs tâches en même temps par exemple.
 - Un réveil
-- Un programme relant toutes les heures,fuseaux horraires de chaques villes, pays.
+- Un programme affichant toutes les heures,fuseaux horraires de chaques villes, pays.
