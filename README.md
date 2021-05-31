@@ -10,10 +10,6 @@ Expliquation d'une partie d'un des programmes :
 
 
 
-bite
-
-
-
 Extensions possibles :
 
 - L'ajout d'une sonnerie au countdown permettant de faire office d'un minuteur utilisable pour faire plusieurs tâches en même temps par exemple.
